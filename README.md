@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- Currently working on neural network simulations (computational neuroscience)
-- Currently learning about mean-field (mesoscale) and whole-brain scale modelling at NeuroPSI
+- Currently working on neural network simulations (computational neuroscience) at NeuroPSI
+- Currently learning about mean-field (mesoscale) and whole-brain scale modelling
 - How to reach me: mattbassat@gmail.com; matthew.bassat@etu-upsaclay.fr
 
 <!--
