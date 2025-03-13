@@ -2,7 +2,7 @@
 
 - Currently working on neural network simulations (computational neuroscience) at NeuroPSI
 - Learning about mean-field (mesoscale) and whole-brain scale modelling
-- How to reach me: mattbassat@gmail.com; matthew.bassat@etu-upsaclay.fr
+- How to reach me: mattbassat@gmail.com
 
 <!--
 **mattbassat/mattbassat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
